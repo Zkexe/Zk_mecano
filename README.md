@@ -20,3 +20,6 @@ Récupérer le dossier. Vous devez ensuite allez dans le server.cfg Ensuite Mett
 Puis dans votre PhpMyAdmin vous mettez le sql et redemarré votre serveur
 
 Pour tout problème merci de rejoindre le discord ci-dessus et un support vous aidera. Cordialement, Zk.
+
+Crédit : Ped garage Nehco
+inspirer du JOB de Enos
